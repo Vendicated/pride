@@ -1,6 +1,6 @@
 # 🏳️‍🌈 LGBT pride
 
-the pride flag in the repo languages
+LGBT pride via github languages list
 
 ![image](https://github.com/Vendicated/gay/assets/45497981/4f5a0f42-56bf-4cea-8f04-498db315bfb5)
 
