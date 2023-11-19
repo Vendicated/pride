@@ -2,7 +2,8 @@
 
 the pride flag in the repo languages
 
-![](https://github.com/Vendicated/gay/assets/45497981/527fd771-a925-422e-a645-7b6ad134a653)
+![image](https://github.com/Vendicated/gay/assets/45497981/4f5a0f42-56bf-4cea-8f04-498db315bfb5)
+
 
 Inspired by https://github.com/spacekookie/gay
 
